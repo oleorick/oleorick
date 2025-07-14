@@ -15,7 +15,7 @@ Oi, eu sou o Léo!
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+Para entrar em contato, minhas redes são:
  
 <div> 
   <a href="https://www.twitch.com/oleorick" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/oleorick?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
