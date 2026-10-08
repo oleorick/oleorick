@@ -1,6 +1,10 @@
 ## Olá, eu sou o Léo! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, com sólida bagagem em suporte técnico corporativo avançado (N1/N2), monitoramento de servidores e tratamento de dados. Apaixonado por tecnologia, automação e resolução de problemas complexos.
+Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, unindo uma sólida base em suporte técnico corporativo avançado (N1/N2), monitoramento de servidores e tratamento de dados. 
+
+Programador em transição de carreira, autodidata e apaixonado por tecnologia, automação e design UI/UX. Quando não estou codando ou estudando arquitetura de software, estou cuidando do meu felino de estimação, o **Banguela** 🐈‍⬛.
+
+Aqui você encontra projetos que participei, soluções que desenvolvi sozinho e a evolução da minha jornada na tecnologia! 🚀
 
 ---
 
@@ -20,11 +24,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, com sólida ba
 
 | Tecnologia / Skill | Nível Real / Progresso |
 | :--- | :---: |
-| **Suporte Técnico & Infra (N1/N2)** | <img src="https://progress-bar.xyz/90/?scale=100&text=90%25" alt="90%" /> |
-| **Python & Lógica de Algoritmos** | <img src="https://progress-bar.xyz/65/?scale=100&text=65%25" alt="65%" /> |
-| **HTML & CSS (Web Básica/Intermediária)** | <img src="https://progress-bar.xyz/60/?scale=100&text=60%25" alt="60%" /> |
-| **Git & Markdown** | <img src="https://progress-bar.xyz/70/?scale=100&text=70%25" alt="70%" /> |
-| **Análise e Tratamento de Dados** | <img src="https://progress-bar.xyz/80/?scale=100&text=80%25" alt="80%" /> |
+| **🛠️ Suporte Técnico & Infra (N1/N2)** | <img src="https://progress-bar.xyz/90/?scale=100&text=90%25" alt="90%" /> |
+| **🐍 Python & Lógica** | <img src="https://progress-bar.xyz/65/?scale=100&text=65%25" alt="65%" /> |
+| **🌐 HTML & CSS (Web)** | <img src="https://progress-bar.xyz/60/?scale=100&text=60%25" alt="60%" /> |
+| **💻 Git & Markdown** | <img src="https://progress-bar.xyz/70/?scale=100&text=70%25" alt="70%" /> |
+| **📊 Análise de Dados** | <img src="https://progress-bar.xyz/80/?scale=100&text=80%25" alt="80%" /> |
 
 </div>
 
