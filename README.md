@@ -12,16 +12,16 @@ Aqui você encontra projetos que participei, soluções que desenvolvi sozinho e
 
 | Habilidade | Progresso | Descrição / Status |
 | :--- | :---: | :--- |
-| **🛠️ Suporte Técnico & Infra (N1/N2)** | <img src="https://progress-bar.xyz/90/?scale=100&text=90%25" alt="90%" /> | `Veterano (Nível Avançado)` |
-| **📊 Análise & Tratamento de Dados** | <img src="https://progress-bar.xyz/80/?scale=100&text=80%25" alt="80%" /> | `Aventureiro (Nível Intermediário)` |
-| **💻 Git & Markdown** | <img src="https://progress-bar.xyz/70/?scale=100&text=70%25" alt="70%" /> | `Aventureiro (Nível Intermediário)` |
-| **🐍 Python** | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25" alt="20%" /> | `Padawan (Iniciante)` |
-| **☕ Java** | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25" alt="20%" /> | `Padawan (Iniciante)` |
-| **🌐 HTML & CSS** | <img src="https://progress-bar.xyz/60/?scale=100&text=60%25" alt="60%" /> | `Padawan (Em Evolução)` |
-| **🎨 Tailwind CSS** | <img src="https://progress-bar.xyz/55/?scale=100&text=55%25" alt="55%" /> | `Padawan (Em Evolução)` |
-| **⚡ JavaScript** | <img src="https://progress-bar.xyz/50/?scale=100&text=50%25" alt="50%" /> | `Padawan (Em Evolução)` |
-| **🎨 UI/UX Design** | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25" alt="20%" /> | `Padawan (Iniciante)` |
-| &nbsp;&nbsp;&nbsp;&nbsp;└ *Figma* | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25" alt="20%" /> | `Padawan (Iniciante)` |
+| **🛠️ Suporte Técnico & Infra (N1/N2)** | <img src="https://progress-bar.xyz/90/?scale=100&text=90%25&color=brightgreen" alt="90%" /> | `Veterano (Nível Avançado)` |
+| **📊 Análise & Tratamento de Dados** | <img src="https://progress-bar.xyz/80/?scale=100&text=80%25&color=green" alt="80%" /> | `Aventureiro (Nível Intermediário)` |
+| **💻 Git & Markdown** | <img src="https://progress-bar.xyz/70/?scale=100&text=70%25&color=yellowgreen" alt="70%" /> | `Aventureiro (Nível Intermediário)` |
+| **🐍 Python** | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25&color=orange" alt="20%" /> | `Padawan (Iniciante)` |
+| **☕ Java** | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25&color=orange" alt="20%" /> | `Padawan (Iniciante)` |
+| **🌐 HTML & CSS** | <img src="https://progress-bar.xyz/60/?scale=100&text=60%25&color=orange" alt="60%" /> | `Padawan (Em Evolução)` |
+| **🎨 Tailwind CSS** | <img src="https://progress-bar.xyz/55/?scale=100&text=55%25&color=orange" alt="55%" /> | `Padawan (Em Evolução)` |
+| **⚡ JavaScript** | <img src="https://progress-bar.xyz/50/?scale=100&text=50%25&color=orange" alt="50%" /> | `Padawan (Em Evolução)` |
+| **🎨 UI/UX Design** | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25&color=orange" alt="20%" /> | `Padawan (Iniciante)` |
+| &nbsp;&nbsp;&nbsp;&nbsp;└ *Figma* | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25&color=orange" alt="20%" /> | `Padawan (Iniciante)` |
 
 ---
 
