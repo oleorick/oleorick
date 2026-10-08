@@ -14,12 +14,28 @@ Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, com sólida ba
 
 ---
 
+### 📈 Minhas Skills & Níveis (Em Evolução)
+
+<div align="center">
+
+| Tecnologia / Skill | Nível Real / Progresso |
+| :--- | :---: |
+| **Suporte Técnico & Infra (N1/N2)** | <img src="https://progress-bar.xyz/90/?scale=100&text=90%25" alt="90%" /> |
+| **Python & Lógica de Algoritmos** | <img src="https://progress-bar.xyz/65/?scale=100&text=65%25" alt="65%" /> |
+| **HTML & CSS (Web Básica/Intermediária)** | <img src="https://progress-bar.xyz/60/?scale=100&text=60%25" alt="60%" /> |
+| **Git & Markdown** | <img src="https://progress-bar.xyz/70/?scale=100&text=70%25" alt="70%" /> |
+| **Análise e Tratamento de Dados** | <img src="https://progress-bar.xyz/80/?scale=100&text=80%25" alt="80%" /> |
+
+</div>
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ---
