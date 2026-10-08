@@ -10,35 +10,29 @@ Aqui você encontra projetos que participei, soluções que desenvolvi sozinho e
 
 ### 🚀 Skills & Tecnologias
 
-| Habilidade | Nível / Patente |
-| :--- | :--- |
-| **🛠️ Suporte Técnico & Infra (N1/N2)** | <img src="https://progress-bar.xyz/90/?scale=100&text=Veterano" alt="90%" /> |
-| **📊 Análise & Tratamento de Dados** | <img src="https://progress-bar.xyz/80/?scale=100&text=Aventureiro" alt="80%" /> |
-| **💻 Git & Markdown** | <img src="https://progress-bar.xyz/70/?scale=100&text=Aventureiro" alt="70%" /> |
-| **🐍 Python** | <img src="https://progress-bar.xyz/65/?scale=100&text=Padawan" alt="65%" /> |
-| **☕ Java** | <img src="https://progress-bar.xyz/60/?scale=100&text=Padawan" alt="60%" /> |
-| **🌐 HTML & CSS** | <img src="https://progress-bar.xyz/60/?scale=100&text=Padawan" alt="60%" /> |
-| **🎨 Tailwind CSS** | <img src="https://progress-bar.xyz/55/?scale=100&text=Padawan" alt="55%" /> |
-| **⚡ JavaScript** | <img src="https://progress-bar.xyz/50/?scale=100&text=Padawan" alt="50%" /> |
-| **🎨 UI/UX Design** | <img src="https://progress-bar.xyz/60/?scale=100&text=Padawan" alt="60%" /> |
-| &nbsp;&nbsp;&nbsp;&nbsp;└ *Figma e Prototipagem* | <img src="https://progress-bar.xyz/65/?scale=100&text=Padawan" alt="65%" /> |
-| &nbsp;&nbsp;&nbsp;&nbsp;└ *Design Systems & Wireframing* | <img src="https://progress-bar.xyz/50/?scale=100&text=Padawan" alt="50%" /> |
+| Habilidade | Progresso | Descrição / Status |
+| :--- | :---: | :--- |
+| **🛠️ Suporte Técnico & Infra (N1/N2)** | <img src="https://progress-bar.xyz/90/?scale=100&text=90%25" alt="90%" /> | `Veterano (Nível Avançado)` |
+| **📊 Análise & Tratamento de Dados** | <img src="https://progress-bar.xyz/80/?scale=100&text=80%25" alt="80%" /> | `Aventureiro (Nível Intermediário)` |
+| **💻 Git & Markdown** | <img src="https://progress-bar.xyz/70/?scale=100&text=70%25" alt="70%" /> | `Aventureiro (Nível Intermediário)` |
+| **🐍 Python** | <img src="https://progress-bar.xyz/65/?scale=100&text=65%25" alt="65%" /> | `Padawan (Em Evolução)` |
+| **☕ Java** | <img src="https://progress-bar.xyz/60/?scale=100&text=60%25" alt="60%" /> | `Padawan (Em Evolução)` |
+| **🌐 HTML & CSS** | <img src="https://progress-bar.xyz/60/?scale=100&text=60%25" alt="60%" /> | `Padawan (Em Evolução)` |
+| **🎨 Tailwind CSS** | <img src="https://progress-bar.xyz/55/?scale=100&text=55%25" alt="55%" /> | `Padawan (Em Evolução)` |
+| **⚡ JavaScript** | <img src="https://progress-bar.xyz/50/?scale=100&text=50%25" alt="50%" /> | `Padawan (Em Evolução)` |
+| **🎨 UI/UX Design** | <img src="https://progress-bar.xyz/60/?scale=100&text=60%25" alt="60%" /> | `Padawan (Em Evolução)` |
+| &nbsp;&nbsp;&nbsp;&nbsp;└ *Figma e Prototipagem* | <img src="https://progress-bar.xyz/65/?scale=100&text=65%25" alt="65%" /> | `Padawan (Em Evolução)` |
+| &nbsp;&nbsp;&nbsp;&nbsp;└ *Design Systems & Wireframing* | <img src="https://progress-bar.xyz/50/?scale=100&text=50%25" alt="50%" /> | `Padawan (Em Evolução)` |
 
 ---
 
 ### 📂 Projetos em Destaque (FATEC / Pessoais)
-<div align="center">
-  <a href="https://github.com/oleorick" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oleorick&repo=oleorick.github.io&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/oleorick" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oleorick&repo=segunda-tela&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/oleorick" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oleorick&repo=lumora&theme=tokyonight&show_owner=true" />
-  </a>
-</div>
-*(Nota: Conforme você criar e subir os repositórios oficiais do "Segunda Tela" e do "Lumora" no seu GitHub, os cards acima vão carregar certinho!)*
+
+| Nome do Projeto | Descrição | Link de Acesso |
+| :--- | :--- | :--- |
+| **🌐 Portfólio & Currículo Web** | Página pessoal interativa desenvolvida com HTML e CSS para apresentação profissional. | [Acessar Repositório](https://github.com/oleorick/oleorick.github.io) |
+| **💰 Segunda Tela (TCC)** | Aplicação web para gestão de produtividade, controle financeiro pessoal e automações. | [Acessar Repositório](https://github.com/oleorick/segunda-tela) |
+| **⚔️ Projeto Lumora (Guilda)** | Projeto colaborativo desenvolvido em conjunto com a equipe durante as atividades da faculdade. | [Acessar Repositório](https://github.com/WhitemanKMKZ/ProjectGuilda-JLLPV) |
 
 ---
 
