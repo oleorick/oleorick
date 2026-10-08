@@ -1,6 +1,6 @@
 ## Olá, eu sou o Léo! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, unindo uma sólida base em suporte técnico corporativo avançado (N1/N2), monitoramento de servidores e tratamento de dados. 
+Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, unindo uma sólida base em suporte técnico corporativo (N1/N2), monitoramento de servidores e tratamento de dados. 
 
 Programador em transição de carreira, autodidata e apaixonado por tecnologia, automação e design UI/UX. Quando não estou codando, estudando, ou jogando, estou sendo feito de brinquedo pelo **Banguela** 🐈‍⬛.
 
@@ -8,23 +8,23 @@ Aqui você encontra projetos que participei, soluções que desenvolvi sozinho e
 
 ---
 
-### 🎮 Ficha do Personagem (Skills & Atributos)
+### 🗺️ Mapa de Atributos (Fase / Patente)
 
-| Atributo / Skill | Nível / Classe | Status Atual |
-| :--- | :--- | :--- |
-| **🛠️ Suporte Técnico & Infra (N1/N2)** | `Lv. 90` | *Especialista em Produção e Servidores* |
-| **📊 Análise & Tratamento de Dados** | `Lv. 80` | *Domínio de Fluxos e Validações* |
-| **💻 Git & Markdown** | `Lv. 70` | *Versionamento Ativo* |
-| **🐍 Python & Lógica** | `Lv. 65` | *Em Upar Atributos (FATEC)* |
-| **🌐 HTML & CSS (Web)** | `Lv. 60` | *Construindo Interfaces & UI/UX* |
+| Tecnologia / Skill | Patente / Nível |
+| :--- | :--- |
+| **🛠️ Suporte Técnico & Infra (N1/N2)** | `Veterano (Nível Avançado)` |
+| **📊 Análise & Tratamento de Dados** | `Aventureiro (Nível Intermediário)` |
+| **💻 Git & Markdown** | `Aventureiro (Nível Intermediário)` |
+| **🐍 Python & Lógica** | `Padawan (Em Evolução)` |
+| **🌐 HTML & CSS (Web)** | `Padawan (Em Evolução)` |
 
 ---
 
-### 📊 Estatísticas & Stack
+### 📊 Estatísticas & Linguagens
 <div align="center">
   <a href="https://github.com/oleorick">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oleorick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleorick&layout=compact&langs_count=4&hide=html,css&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oleorick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleorick&layout=donut&theme=tokyonight"/>
   </a>
 </div>
 
