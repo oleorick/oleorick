@@ -12,11 +12,22 @@ Aqui você encontra projetos que participei, soluções que desenvolvi sozinho e
 
 | Tecnologia / Skill | Patente / Nível |
 | :--- | :--- |
-| **🛠️ Suporte Técnico & Infra (N1/N2)** | `Veterano (Nível Avançado)` |
-| **📊 Análise & Tratamento de Dados** | `Aventureiro (Nível Intermediário)` |
-| **💻 Git & Markdown** | `Aventureiro (Nível Intermediário)` |
+| **🛠️ Suporte Técnico & Infra (N1/N2)** | `Veterano` |
+| **📊 Análise & Tratamento de Dados** | `Aventureiro` |
+| **💻 Git & Markdown** | `Aventureiro` |
 | **🐍 Python & Lógica** | `Padawan (Em Evolução)` |
 | **🌐 HTML & CSS (Web)** | `Padawan (Em Evolução)` |
+*(Nota: O título de Jedi fica reservado para quando virar especialista de verdade!)* ⚔️
+
+---
+
+### 📂 Projetos em Destaque
+<div align="center">
+  <a href="https://github.com/oleorick/oleorick.github.io" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oleorick&repo=oleorick.github.io&theme=tokyonight&show_owner=true" />
+  </a>
+  <!-- Adicione mais cards de projetos aqui conforme for criando novos repositórios -->
+</div>
 
 ---
 
