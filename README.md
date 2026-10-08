@@ -12,16 +12,16 @@ Aqui você encontra projetos que participei, soluções que desenvolvi sozinho e
 
 | Habilidade | Progresso | Descrição / Status |
 | :--- | :---: | :--- |
-| **🛠️ Suporte Técnico & Infra (N1/N2)** | <img src="https://progress-bar.xyz/90/?scale=100&text=90%25&color=brightgreen" alt="90%" /> | `Veterano (Nível Avançado)` |
-| **📊 Análise & Tratamento de Dados** | <img src="https://progress-bar.xyz/80/?scale=100&text=80%25&color=green" alt="80%" /> | `Aventureiro (Nível Intermediário)` |
-| **💻 Git & Markdown** | <img src="https://progress-bar.xyz/70/?scale=100&text=70%25&color=yellowgreen" alt="70%" /> | `Aventureiro (Nível Intermediário)` |
-| **🐍 Python** | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25&color=orange" alt="20%" /> | `Padawan (Iniciante)` |
-| **☕ Java** | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25&color=orange" alt="20%" /> | `Padawan (Iniciante)` |
-| **🌐 HTML & CSS** | <img src="https://progress-bar.xyz/60/?scale=100&text=60%25&color=orange" alt="60%" /> | `Padawan (Em Evolução)` |
-| **🎨 Tailwind CSS** | <img src="https://progress-bar.xyz/55/?scale=100&text=55%25&color=orange" alt="55%" /> | `Padawan (Em Evolução)` |
-| **⚡ JavaScript** | <img src="https://progress-bar.xyz/50/?scale=100&text=50%25&color=orange" alt="50%" /> | `Padawan (Em Evolução)` |
-| **🎨 UI/UX Design** | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25&color=orange" alt="20%" /> | `Padawan (Iniciante)` |
-| &nbsp;&nbsp;&nbsp;&nbsp;└ *Figma* | <img src="https://progress-bar.xyz/20/?scale=100&text=20%25&color=orange" alt="20%" /> | `Padawan (Iniciante)` |
+| **🛠️ Suporte Técnico & Infra (N1/N2)** | ![90%](https://img.shields.io/badge/Progresso-90%25-green?style=flat-square) | `Veterano (Nível Avançado)` |
+| **📊 Análise & Tratamento de Dados** | ![80%](https://img.shields.io/badge/Progresso-80%25-green?style=flat-square) | `Aventureiro (Nível Intermediário)` |
+| **💻 Git & Markdown** | ![70%](https://img.shields.io/badge/Progresso-70%25-yellowgreen?style=flat-square) | `Aventureiro (Nível Intermediário)` |
+| **🐍 Python** | ![20%](https://img.shields.io/badge/Progresso-20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
+| **☕ Java** | ![20%](https://img.shields.io/badge/Progresso-20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
+| **🌐 HTML & CSS** | ![60%](https://img.shields.io/badge/Progresso-60%25-orange?style=flat-square) | `Padawan (Em Evolução)` |
+| **🎨 Tailwind CSS** | ![55%](https://img.shields.io/badge/Progresso-55%25-orange?style=flat-square) | `Padawan (Em Evolução)` |
+| **⚡ JavaScript** | ![50%](https://img.shields.io/badge/Progresso-50%25-orange?style=flat-square) | `Padawan (Em Evolução)` |
+| **🎨 UI/UX Design** | ![20%](https://img.shields.io/badge/Progresso-20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
+| &nbsp;&nbsp;&nbsp;&nbsp;└ *Figma* | ![20%](https://img.shields.io/badge/Progresso-20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
 
 ---
 
