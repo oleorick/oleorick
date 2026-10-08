@@ -2,7 +2,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, unindo uma sólida base em suporte técnico corporativo avançado (N1/N2), monitoramento de servidores e tratamento de dados. 
 
-Programador em transição de carreira, autodidata e apaixonado por tecnologia, automação e design UI/UX. Quando não estou codando ou estudando arquitetura de software, estou cuidando do meu felino de estimação, o **Banguela** 🐈‍⬛.
+Programador em transição de carreira, autodidata e apaixonado por tecnologia, automação e design UI/UX. Quando não estou codando, estudando, ou jogando, estou sendo feito de brinquedo pelo **Banguela** 🐈‍⬛.
 
 Aqui você encontra projetos que participei, soluções que desenvolvi sozinho e a evolução da minha jornada na tecnologia! 🚀
 
