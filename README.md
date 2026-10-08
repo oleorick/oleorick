@@ -12,16 +12,16 @@ Aqui você encontra projetos que participei, soluções que desenvolvi sozinho e
 
 | Habilidade | Progresso | Descrição / Status |
 | :--- | :---: | :--- |
-| **🛠️ Suporte Técnico & Infra (N1/N2)** | ![90%](https://img.shields.io/badge/Progresso-90%25-green?style=flat-square) | `Veterano (Nível Avançado)` |
-| **📊 Análise & Tratamento de Dados** | ![80%](https://img.shields.io/badge/Progresso-80%25-green?style=flat-square) | `Aventureiro (Nível Intermediário)` |
-| **💻 Git & Markdown** | ![70%](https://img.shields.io/badge/Progresso-70%25-yellowgreen?style=flat-square) | `Aventureiro (Nível Intermediário)` |
-| **🐍 Python** | ![20%](https://img.shields.io/badge/Progresso-20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
-| **☕ Java** | ![20%](https://img.shields.io/badge/Progresso-20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
-| **🌐 HTML & CSS** | ![60%](https://img.shields.io/badge/Progresso-60%25-orange?style=flat-square) | `Padawan (Em Evolução)` |
-| **🎨 Tailwind CSS** | ![55%](https://img.shields.io/badge/Progresso-55%25-orange?style=flat-square) | `Padawan (Em Evolução)` |
-| **⚡ JavaScript** | ![50%](https://img.shields.io/badge/Progresso-50%25-orange?style=flat-square) | `Padawan (Em Evolução)` |
-| **🎨 UI/UX Design** | ![20%](https://img.shields.io/badge/Progresso-20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
-| &nbsp;&nbsp;&nbsp;&nbsp;└ *Figma* | ![20%](https://img.shields.io/badge/Progresso-20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
+| **🛠️ Suporte Técnico & Infra (N1/N2)** | ![90%](https://img.shields.io/badge/90%25-green?style=flat-square) | `Veterano (Nível Avançado)` |
+| **📊 Análise & Tratamento de Dados** | ![80%](https://img.shields.io/badge/80%25-green?style=flat-square) | `Aventureiro (Nível Intermediário)` |
+| **💻 Git & Markdown** | ![70%](https://img.shields.io/badge/70%25-yellowgreen?style=flat-square) | `Aventureiro (Nível Intermediário)` |
+| **🐍 Python** | ![20%](https://img.shields.io/badge/20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
+| **☕ Java** | ![20%](https://img.shields.io/badge/20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
+| **🌐 HTML & CSS** | ![60%](https://img.shields.io/badge/60%25-orange?style=flat-square) | `Padawan (Em Evolução)` |
+| **🎨 Tailwind CSS** | ![55%](https://img.shields.io/badge/55%25-orange?style=flat-square) | `Padawan (Em Evolução)` |
+| **⚡ JavaScript** | ![50%](https://img.shields.io/badge/50%25-orange?style=flat-square) | `Padawan (Em Evolução)` |
+| **🎨 UI/UX Design** | ![20%](https://img.shields.io/badge/20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
+| &nbsp;&nbsp;&nbsp;&nbsp;└ *Figma* | ![20%](https://img.shields.io/badge/20%25-orange?style=flat-square) | `Padawan (Iniciante)` |
 
 ---
 
