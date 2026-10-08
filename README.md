@@ -8,28 +8,24 @@ Aqui você encontra projetos que participei, soluções que desenvolvi sozinho e
 
 ---
 
-### 📊 Estatísticas no GitHub
-<div align="center">
-  <a href="https://github.com/oleorick">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oleorick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleorick&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
+### 🎮 Ficha do Personagem (Skills & Atributos)
+
+| Atributo / Skill | Nível / Classe | Status Atual |
+| :--- | :--- | :--- |
+| **🛠️ Suporte Técnico & Infra (N1/N2)** | `Lv. 90` | *Especialista em Produção e Servidores* |
+| **📊 Análise & Tratamento de Dados** | `Lv. 80` | *Domínio de Fluxos e Validações* |
+| **💻 Git & Markdown** | `Lv. 70` | *Versionamento Ativo* |
+| **🐍 Python & Lógica** | `Lv. 65` | *Em Upar Atributos (FATEC)* |
+| **🌐 HTML & CSS (Web)** | `Lv. 60` | *Construindo Interfaces & UI/UX* |
 
 ---
 
-### 📈 Minhas Skills & Níveis (Em Evolução)
-
+### 📊 Estatísticas & Stack
 <div align="center">
-
-| Tecnologia / Skill | Nível Real / Progresso |
-| :--- | :---: |
-| **🛠️ Suporte Técnico & Infra (N1/N2)** | <img src="https://progress-bar.xyz/90/?scale=100&text=90%25" alt="90%" /> |
-| **🐍 Python & Lógica** | <img src="https://progress-bar.xyz/65/?scale=100&text=65%25" alt="65%" /> |
-| **🌐 HTML & CSS (Web)** | <img src="https://progress-bar.xyz/60/?scale=100&text=60%25" alt="60%" /> |
-| **💻 Git & Markdown** | <img src="https://progress-bar.xyz/70/?scale=100&text=70%25" alt="70%" /> |
-| **📊 Análise de Dados** | <img src="https://progress-bar.xyz/80/?scale=100&text=80%25" alt="80%" /> |
-
+  <a href="https://github.com/oleorick">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oleorick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleorick&layout=compact&langs_count=4&hide=html,css&theme=tokyonight"/>
+  </a>
 </div>
 
 ---
